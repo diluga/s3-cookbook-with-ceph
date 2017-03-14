@@ -1,3 +1,4 @@
-# My Awesome Book
+# S3 CookBook with ceph
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+基于radosgw方案的S3速成宝典，目前策划分为客户端和服务端两部分内容。
+
